@@ -1,0 +1,9 @@
+[package]
+name = "xz2-compress"
+version = "0.1.0"
+authors = ["Jan-Erik Rediger <janerik@fnordig.de>"]
+
+[dependencies]
+xz2 = "0.1"
+tar = "0.4.5"
+walkdir = "0.1"
